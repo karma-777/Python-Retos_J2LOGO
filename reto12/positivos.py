@@ -16,5 +16,3 @@ def ordena_positivos(lista):
     print(newlista)
 
     
-
-ordena_positivos()
